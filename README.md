@@ -1,3 +1,5 @@
+[![picture alt](https://i.imgur.com/K44huME.png "Main page")](https://github.com/bazuza/FE-Magento-2-Guide)
+
 ## Create custom js and including third-party library
 
 ### Create `theme.js`
