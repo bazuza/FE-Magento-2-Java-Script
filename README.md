@@ -1,4 +1,4 @@
-[![picture alt](https://i.imgur.com/K44huME.png "Main page")](https://github.com/bazuza/FE-Magento-2-Guide)
+[![picture alt](https://raw.githubusercontent.com/bazuza/FE-Magento-2-Guide/master/logo-m2-fe.png "Main page")](https://github.com/bazuza/FE-Magento-2-Guide)
 
 ## Create custom js and including third-party library
 
