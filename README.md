@@ -95,5 +95,9 @@ app/design/<area>/<Vendor>/<theme>/
 │ │ │ │ ├── library.js
 ```
 
+## Links:
+* [Create custom theme](https://github.com/bazuza/FE-Magento-2-Create-theme)
+* [Styles](https://github.com/bazuza/FE-Magento-2-Styles)
+
 ## Resource:
 * [Create cusom js and include third-party library](http://devdocs.magento.com/guides/v2.0/javascript-dev-guide/javascript/js-resources.html)
