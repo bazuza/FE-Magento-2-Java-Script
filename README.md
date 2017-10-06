@@ -4,7 +4,7 @@
 
 ### Create `theme.js`
 1. Create `theme.js` within the theme directory `<Vendor>/<theme>/web/js/theme.js` with this content:
-```
+```js
 define([
   "jquery"
 ], 
