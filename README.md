@@ -18,7 +18,7 @@ function($) {
 2. Declare `theme.js` with a `requirejs-config.js` file
 
 Create a `requirejs-config.js` file within the theme directory: `<Vendor>/<theme><theme>/requirejs-config.js` with this content:
-```
+```js
 var config = {
 
   // When load 'requirejs' always load the following files also
@@ -37,7 +37,7 @@ RequireJS will load our `theme.js` file, on each page, resolving dependencies an
 ### Optional: Including third-party library
 1. Add the library in `web/js`: `<Vendor>/<theme>/web/js/vendor/jquery/library.js`
 2. Open `requirejs-config.js` and add this content:
-```
+```js
 var config = {
 
   deps: [
@@ -68,7 +68,7 @@ var config = {
 };
 ```
 3. Add the dependency within `theme.js`:
-```
+```js
 define([
   'jquery',
   'library'
